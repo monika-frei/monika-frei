@@ -1,8 +1,8 @@
 ### Hi there, I'm Monika Frei 👋
-#🔭 I’m currently working on my project Food App
-#🌱 I’m currently learning JavaScript to become better
-#👯 I’m looking for a job
-#📫 How to reach me: frei.monika@gmail.com
+- 🔭 I’m currently working on my project Food App
+- 🌱 I’m currently learning JavaScript to become better
+- 👯 I’m looking for a job
+- 📫 How to reach me: frei.monika@gmail.com
 <!--
 **monika-frei/monika-frei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
