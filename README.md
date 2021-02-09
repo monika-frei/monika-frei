@@ -1,6 +1,5 @@
 ### Hi there, I'm Monika Frei 👋
 - 🔭 I’m currently learning Typescript by doing online store project -> https://github.com/monika-frei/bookstore
-- 🌱 I’m currently learning JavaScript to become better
 - 👯 I’m looking for a job
 - 📫 How to reach me: frei.monika@gmail.com
 <!--
